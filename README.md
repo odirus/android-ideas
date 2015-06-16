@@ -1,12 +1,23 @@
 ## 介绍
 
-一个创建、编辑、删除和搜索 Todo 的示例，演示了以下功能：
+一个创建、编辑、删除和搜索 Todo 的示例。
 
-* 数据增删改查
-* 子类化 `com.avos.demo.Todo`类。
-* 统计功能
+Todo页，
+
+![img](https://raw.githubusercontent.com/lzwjava/plan/master/android-todo-360.png)
+
+应用内搜索页，
+
+![img](https://raw.githubusercontent.com/lzwjava/plan/master/todo360.png)
+
+
+## 演示功能
+
+* 数据增删改查, AVObject 与 AVQuery 的使用
+* AVObject 的子类化 
+* 统计功能, 统计相应的事件，从而分析用户喜好
 * 统计的自定义事件功能
-* 应用内搜索
+* 应用内搜索, 便捷地找到所需要的信息
 
 ## 如何运行
 
