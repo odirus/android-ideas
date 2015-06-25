@@ -21,8 +21,8 @@ Todo页，
 
 ## 如何运行
 
-* 导入本工程到 Eclipse
-* 右键点击项目，运行 `Run As -> Android Application`即可看到。
+* 用 Android Gradle 打开本项目，运行即可
+* 导入 Eclipse 可能会提示某些类没有找到，请到 [SDK 下载页](https://leancloud.cn/docs/sdk_down.html)下载 SDK。需要基础、推送、统计、应用内搜索四个模块。
 
 ## 替换 App 信息
 
