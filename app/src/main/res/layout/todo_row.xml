@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="#eee" >
+    android:background="#eee">
 
     <TextView
         android:id="@+id/text"
@@ -16,7 +16,6 @@
         android:padding="5sp"
         android:text="test text"
         android:textColor="#343"
-        android:textSize="25sp" >
-    </TextView>
+        android:textSize="25sp"></TextView>
 
 </LinearLayout>
